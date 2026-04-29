@@ -24,4 +24,4 @@ For security, the system also handles user input carefully by encoding it before
 The purpose of this project is to demonstrate basic web security concepts and show how simple techniques can protect systems from common vulnerabilities.
 
 ## Author
-Shahd Al-Zakwani
+Shahd Abdullah Al-Zakwani
