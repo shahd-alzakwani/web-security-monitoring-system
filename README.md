@@ -23,5 +23,19 @@ For security, the system also handles user input carefully by encoding it before
 ## Purpose
 The purpose of this project is to demonstrate basic web security concepts and show how simple techniques can protect systems from common vulnerabilities.
 
+## Screenshots
+
+### Email Alert System
+![Email Alert](PUT-LINK-HERE)
+
+### System Architecture
+![Architecture](PUT-LINK-HERE)
+
+### Code Execution (Python - Flask)
+![Code](PUT-LINK-HERE)
+
+### Encrypted Page Example
+![Encrypted Page](PUT-LINK-HERE)
+
 ## Author
 Shahd Abdullah Al-Zakwani
