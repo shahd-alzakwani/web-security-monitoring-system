@@ -26,7 +26,7 @@ The purpose of this project is to demonstrate basic web security concepts and sh
 ## Screenshots
 
 ### Email Alert System
-![Screenshot 2025-04-18 181528.png)
+![Email Alert](PUT-LINK-HERE)
 
 ### System Architecture
 ![Architecture](PUT-LINK-HERE)
